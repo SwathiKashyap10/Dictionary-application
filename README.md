@@ -32,7 +32,7 @@ The app fetches data from the free **[Dictionary API](https://dictionaryapi.dev/
 ---
 
 ### 📌  Result 
-![view Result](./assets/result.png)
+![view Result](./assets/result.jpg)
 
 ---
 
